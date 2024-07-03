@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **Natural Language Processing using Tensorflow**
 
-- 🌱 I’m currently learning **Deep Lerning**
+- 🌱 I’m currently learning **Reinforced Learning and RAG models**
 
 - 👯 I’m looking to collaborate on **Industry Level ML Projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Flutter, Machine Learning, Deep Learning, User Design, Figma, Canva**
+- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing, EDA, LLMs, User Design, Figma, Canva**
 
-- 📫 How to reach me **arooprath2004@gmail.com**
+- 📫 How to reach me **work.arooprath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
