@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Reinforcement Learning and RAG Models**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 👯 I’m looking to collaborate on **Industry Level AI Solutions**
 
-- 👯 I’m looking to collaborate on **Industry Level ML Projects**
-
-- 💬 Ask me about **HTML, CSS, Machine Learning, Deep Learning, NLP, LLM User Design, Figma, Canva**
+- 💬 Ask me about **HTML, CSS, Machine Learning, Deep Learning, NLP, LLM, User Design, Figma, Canva**
 
 - 📫 How to reach me **work.arooprath@gmail.com**
 
