@@ -1,24 +1,86 @@
-<h1 align="center">Hi 👋, I'm Aroop Rath</h1>
-<h3 align="center">A passionate aspiring Machine Learning Engineer from India</h3>
+Aroop Rath
 
-- 🔭 I’m currently working on **Reinforcement Learning and RAG Models**
+  
 
-- 👯 I’m looking to collaborate on **Industry Level AI Solutions**
 
-- 💬 Ask me about **HTML, CSS, Machine Learning, Deep Learning, NLP, LLM, User Design, Figma, Canva**
+  
 
-- 📫 How to reach me **work.arooprath@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aroop.rath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aroop.rath" height="30" width="40" /></a>
-<a href="https://kaggle.com/arooprath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arooprath" height="30" width="40" /></a>
-<a href="https://instagram.com/aroop.rath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aroop.rath" height="30" width="40" /></a>
-</p>
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aroopgit&show_icons=true&locale=en&layout=compact" alt="aroopgit" /></p>
+👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aroopgit&" alt="aroopgit" /></p>
+AI & Backend Developer passionate about building scalable, data-driven solutions.
+
+I'm a Computer Science and Engineering student at Dwarkadas J. Sanghvi College of Engineering, focusing on creating impactful AI and backend systems. I love leveraging machine learning and robust APIs to solve real-world problems, from logistics optimization to dynamic pricing.
+🚀 Current Projects
+
+ML Pipeline — A streamlined tool for automating machine learning workflows, from data preprocessing to model deployment, designed for scalability and ease of use.
+AI-Powered Logistics Optimization Platform — An AI-driven solution for multi-modal shipment routing, reducing logistics costs by 22% and improving delivery reliability by 18%.
+ThroughCab - Dynamic Pricing Estimator — A machine learning web app for real-time cab fare predictions, cutting estimation errors by 18%.
+Caravan - Collaborative Music Room — A full-stack app for real-time music collaboration, integrating Spotify API and WebSockets for seamless user interaction.
+
+💡 What I'm Learning
+
+Advanced MLOps techniques for seamless model deployment and monitoring.
+Crafting intuitive APIs that make complex systems feel effortless.
+
+🛠️ Tech Stack
+
+  Languages & Frameworks
+  
+  
+            
+
+
+
+  Databases & Cloud
+  
+  
+    
+
+
+
+  Tools & DevOps
+  
+  
+      
+
+
+💬 Ask Me About
+
+Optimizing AI models for real-world applications.
+Building scalable backend systems with FastAPI and MongoDB.
+
+Project Demos
+
+AI-Powered Logistics Optimization Platform - Cost and Time Efficient Routing
+ThroughCab - Dynamic Pricing Estimator for Ride-Sharing
+Caravan - Real-Time Collaborative Music Room
+
+📊 GitHub Stats
+
+  
+  
+
+
+🎵 What I'm Listening To
+
+  
+    
+  
+
+
+🐍 GitHub Snake
+
+  
+    
+    
+    
+  
+
+
+
+
+  Excited to collaborate on innovative AI and backend projects! Let's connect.
